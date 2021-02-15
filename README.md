@@ -1,6 +1,6 @@
 # Car Review: Project Overview
 * Work in progress repository for the car review project
-* Scraping information from **https://www.parkers.co.uk/ using python and BeautifulSoup
+* Scraping information from https://www.parkers.co.uk/ using python and BeautifulSoup
 * Cleaning of obtained data using Pandas
 * Performing Exploratory Data Analysis using matplotlib and seaborn
 * TO FINISH: ml model for natural language processing on user's reviews 
